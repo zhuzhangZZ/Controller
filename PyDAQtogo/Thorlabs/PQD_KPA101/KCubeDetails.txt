@@ -1,0 +1,2078 @@
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ManagedHelper
+  Method: ToStdString
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0BC@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0BA@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY00$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0BL@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0BH@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$FQEAAAEAV12@QEBD_K@Z.__l2.<lambda_61f19ca81ede490286327871d07716e6>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std._One_then_variadic_args_t
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.integral_constant<bool\,0>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.exception
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std._Ref_count_base
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: type_info
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std._String_alloc<std::_String_base_types<char\,std::allocator<char> > >
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std._String_val<std::_Simple_types<char> >
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std._String_val<std::_Simple_types<char> >+_Bxty
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_s__RTTIBaseClassArray$_extraBytes_8
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_s__RTTIBaseClassArray$_extraBytes_16
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: _s__RTTIBaseClassDescriptor
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: _s__RTTIClassHierarchyDescriptor
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_20
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_26
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: _s__RTTICompleteObjectLocator2
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: _s__CatchableType
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: _s__ThrowInfo
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY01Q6AXXZ
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0M@Q6AXXZ
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY02Q6AXXZ
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: __std_exception_data
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.Native.CKCubePositionAligner2
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ManagedErrorUpdateRelay
+  Method: GenerateCallback
+  Method: Dispose
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ManagedErrorUpdateRelay+CallbackDelegateNative
+  Method: Invoke
+  Method: BeginInvoke
+  Method: EndInvoke
+  Method: GetObjectData
+  Method: Equals
+  Method: GetInvocationList
+  Method: GetHashCode
+  Method: DynamicInvoke
+  Method: get_Method
+  Method: get_Target
+  Method: Clone
+  Method: ToString
+  Method: GetType
+  Property: Method
+  Property: Target
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ManagedErrorUpdateRelay+CallbackDelegateManaged
+  Method: Invoke
+  Method: BeginInvoke
+  Method: EndInvoke
+  Method: GetObjectData
+  Method: Equals
+  Method: GetInvocationList
+  Method: GetHashCode
+  Method: DynamicInvoke
+  Method: get_Method
+  Method: get_Target
+  Method: Clone
+  Method: ToString
+  Method: GetType
+  Property: Method
+  Property: Target
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerConverter
+  Method: get_MaxPosition
+  Method: get_MinPosition
+  Method: ToPosition
+  Method: FromPosition
+  Method: get_MaxSum
+  Method: ToSum
+  Method: FromSum
+  Method: get_MaxGain
+  Method: get_MaxSignalGain
+  Method: get_MinSignalGain
+  Method: ToSignalGain
+  Method: FromSignalGain
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: MinSignalGain
+  Property: MaxSignalGain
+  Property: MaxGain
+  Property: MaxSum
+  Property: MinPosition
+  Property: MaxPosition
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.XYPosition
+  Method: ToUnit
+  Method: Equals
+  Method: op_Equality
+  Method: op_Inequality
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerStatus
+  Method: op_Equality
+  Method: op_Inequality
+  Method: get_Sum
+  Method: get_Mode
+  Method: get_PositionDifference
+  Method: get_DemandedPosition
+  Method: get_Status
+  Method: get_OpenLoop
+  Method: get_ClosedLoop
+  Method: get_PositionMonitoring
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: PositionMonitoring
+  Property: ClosedLoop
+  Property: OpenLoop
+  Property: Status
+  Property: DemandedPosition
+  Property: PositionDifference
+  Property: Mode
+  Property: Sum
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerStatus+OperatingModes
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ManagedPositionAlignerStatusUpdateRelay
+  Method: GenerateCallback
+  Method: Dispose
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ManagedPositionAlignerStatusUpdateRelay+CallbackDelegateNative
+  Method: Invoke
+  Method: BeginInvoke
+  Method: EndInvoke
+  Method: GetObjectData
+  Method: Equals
+  Method: GetInvocationList
+  Method: GetHashCode
+  Method: DynamicInvoke
+  Method: get_Method
+  Method: get_Target
+  Method: Clone
+  Method: ToString
+  Method: GetType
+  Property: Method
+  Property: Target
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ManagedPositionAlignerStatusUpdateRelay+CallbackDelegateManaged
+  Method: Invoke
+  Method: BeginInvoke
+  Method: EndInvoke
+  Method: GetObjectData
+  Method: Equals
+  Method: GetInvocationList
+  Method: GetHashCode
+  Method: DynamicInvoke
+  Method: get_Method
+  Method: get_Target
+  Method: Clone
+  Method: ToString
+  Method: GetType
+  Property: Method
+  Property: Target
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.INativeObjectWrapper
+  Method: GetIntPtr
+  Method: IsValid
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.GUISettings
+  Method: GetDisplayUnits
+  Method: get_NormalizeXYToSum
+  Method: set_NormalizeXYToSum
+  Method: get_DisplayLabels
+  Method: set_DisplayLabels
+  Method: get_OverlaySumMask
+  Method: set_OverlaySumMask
+  Method: get_Detector
+  Method: set_Detector
+  Method: PropertyList
+  Method: get_UseType
+  Method: IsActiveSettings
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: Detector
+  Property: OverlaySumMask
+  Property: DisplayLabels
+  Property: NormalizeXYToSum
+  Property: UseType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.GUISettings+Detectors
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.FeedbackLoopSettings
+  Method: get_ProportionalGain
+  Method: set_ProportionalGain
+  Method: get_IntegralGain
+  Method: set_IntegralGain
+  Method: get_DerivativeGain
+  Method: set_DerivativeGain
+  Method: get_LowPassFilterCutOffFrequency
+  Method: set_LowPassFilterCutOffFrequency
+  Method: get_NotchFilterCenterFrequency
+  Method: set_NotchFilterCenterFrequency
+  Method: get_NotchFilterQ
+  Method: set_NotchFilterQ
+  Method: get_LowPassFilterEnable
+  Method: set_LowPassFilterEnable
+  Method: get_NotchFilterEnable
+  Method: set_NotchFilterEnable
+  Method: get_TPAEnabled
+  Method: get_DataVersion
+  Method: set_DataVersion
+  Method: PropertyList
+  Method: get_UseType
+  Method: IsActiveSettings
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: DataVersion
+  Property: TPAEnabled
+  Property: NotchFilterEnable
+  Property: LowPassFilterEnable
+  Property: NotchFilterQ
+  Property: NotchFilterCenterFrequency
+  Property: LowPassFilterCutOffFrequency
+  Property: DerivativeGain
+  Property: IntegralGain
+  Property: ProportionalGain
+  Property: UseType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.MMISettings
+  Method: get_DisplayIntensity
+  Method: set_DisplayIntensity
+  Method: get_DisplayDimIntensity
+  Method: set_DisplayDimIntensity
+  Method: get_DisplayTimeout
+  Method: set_DisplayTimeout
+  Method: PropertyList
+  Method: get_UseType
+  Method: IsActiveSettings
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: DisplayTimeout
+  Property: DisplayDimIntensity
+  Property: DisplayIntensity
+  Property: UseType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerPosDemandParameters
+  Method: ToUnit
+  Method: get_YFeedbackGain
+  Method: set_YFeedbackGain
+  Method: get_XFeedbackGain
+  Method: set_XFeedbackGain
+  Method: get_YGainSense
+  Method: set_YGainSense
+  Method: get_XGainSense
+  Method: set_XGainSense
+  Method: get_OpenLoopHoldValue
+  Method: set_OpenLoopHoldValue
+  Method: get_LowVoltageOutputRoute
+  Method: set_LowVoltageOutputRoute
+  Method: get_MaxDemand
+  Method: set_MaxDemand
+  Method: get_MinDemand
+  Method: set_MinDemand
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: MinDemand
+  Property: MaxDemand
+  Property: LowVoltageOutputRoute
+  Property: OpenLoopHoldValue
+  Property: XGainSense
+  Property: YGainSense
+  Property: XFeedbackGain
+  Property: YFeedbackGain
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerPosDemandParameters+DirectionSense
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerPosDemandParameters+PositionAlignerLVRoutes
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerPosDemandParameters+PositionAlignerOpenLoopHoldValues
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionDemandingSettings
+  Method: get_MinXDemand
+  Method: set_MinXDemand
+  Method: get_MinYDemand
+  Method: set_MinYDemand
+  Method: get_MaxXDemand
+  Method: set_MaxXDemand
+  Method: get_MaxYDemand
+  Method: set_MaxYDemand
+  Method: get_XFeedbackSignedGain
+  Method: set_XFeedbackSignedGain
+  Method: get_YFeedbackSignedGain
+  Method: set_YFeedbackSignedGain
+  Method: get_LowVoltageOutputRoute
+  Method: set_LowVoltageOutputRoute
+  Method: get_OpenLoopOption
+  Method: set_OpenLoopOption
+  Method: PropertyList
+  Method: get_UseType
+  Method: IsActiveSettings
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: OpenLoopOption
+  Property: LowVoltageOutputRoute
+  Property: YFeedbackSignedGain
+  Property: XFeedbackSignedGain
+  Property: MaxYDemand
+  Property: MaxXDemand
+  Property: MinYDemand
+  Property: MinXDemand
+  Property: UseType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerTriggerParameters
+  Method: ToUnit
+  Method: get_Trig1Mode
+  Method: set_Trig1Mode
+  Method: get_Trig1Polarity
+  Method: set_Trig1Polarity
+  Method: get_Trig1SumMin
+  Method: set_Trig1SumMin
+  Method: get_Trig1SumMax
+  Method: set_Trig1SumMax
+  Method: get_Trig1DiffThreshold
+  Method: set_Trig1DiffThreshold
+  Method: get_Trig2Mode
+  Method: set_Trig2Mode
+  Method: get_Trig2Polarity
+  Method: set_Trig2Polarity
+  Method: get_Trig2SumMin
+  Method: set_Trig2SumMin
+  Method: get_Trig2SumMax
+  Method: set_Trig2SumMax
+  Method: get_Trig2DiffThreshold
+  Method: set_Trig2DiffThreshold
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: Trig2DiffThreshold
+  Property: Trig2SumMax
+  Property: Trig2SumMin
+  Property: Trig2Polarity
+  Property: Trig2Mode
+  Property: Trig1DiffThreshold
+  Property: Trig1SumMax
+  Property: Trig1SumMin
+  Property: Trig1Polarity
+  Property: Trig1Mode
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerTriggerParameters+PositionAlignerTrigModes
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerTriggerParameters+PositionAlignerTrigPolarities
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.TriggerConfigSettings
+  Method: get_Trig1Mode
+  Method: set_Trig1Mode
+  Method: get_Trig1Polarity
+  Method: set_Trig1Polarity
+  Method: get_Trig1SumMin
+  Method: set_Trig1SumMin
+  Method: get_Trig1SumMax
+  Method: set_Trig1SumMax
+  Method: get_Trig1DiffThreshold
+  Method: set_Trig1DiffThreshold
+  Method: get_Trig2Mode
+  Method: set_Trig2Mode
+  Method: get_Trig2Polarity
+  Method: set_Trig2Polarity
+  Method: get_Trig2SumMin
+  Method: set_Trig2SumMin
+  Method: get_Trig2SumMax
+  Method: set_Trig2SumMax
+  Method: get_Trig2DiffThreshold
+  Method: set_Trig2DiffThreshold
+  Method: PropertyList
+  Method: get_UseType
+  Method: IsActiveSettings
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: Trig2DiffThreshold
+  Property: Trig2SumMax
+  Property: Trig2SumMin
+  Property: Trig2Polarity
+  Property: Trig2Mode
+  Property: Trig1DiffThreshold
+  Property: Trig1SumMax
+  Property: Trig1SumMin
+  Property: Trig1Polarity
+  Property: Trig1Mode
+  Property: UseType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.AutoOpenCloseLoopSettings
+  Method: get_AutoOpenCloseLoop
+  Method: set_AutoOpenCloseLoop
+  Method: PropertyList
+  Method: get_UseType
+  Method: IsActiveSettings
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: AutoOpenCloseLoop
+  Property: UseType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.IPositionAlignerDeviceSettings
+  Method: get_GUI
+  Method: get_MMI
+  Method: get_FeedbackLoop
+  Method: get_PositionDemanding
+  Method: get_TriggerConfig
+  Method: get_AutoOpenCloseLoop
+  Property: AutoOpenCloseLoop
+  Property: TriggerConfig
+  Property: PositionDemanding
+  Property: FeedbackLoop
+  Property: MMI
+  Property: GUI
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.IFeedbackDeviceSettings
+  Method: get_FeedbackLoop
+  Property: FeedbackLoop
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.IDisplayIntensityDeviceSettings
+  Method: get_DisplayIntensity
+  Property: DisplayIntensity
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.IGUIDeviceSettings
+  Method: get_GUI
+  Property: GUI
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.IPositionDemandingDeviceSettings
+  Method: get_PositionDemanding
+  Property: PositionDemanding
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ITriggerConfigDeviceSettings
+  Method: get_TriggerConfig
+  Property: TriggerConfig
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.IAutoOpenCloseLoopDeviceSettings
+  Method: get_AutoOpenCloseLoop
+  Property: AutoOpenCloseLoop
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ThorlabsPositionAlignerSettings
+  Method: GetSettings
+  Method: GetSettings
+  Method: get_MMI
+  Method: get_GUI
+  Method: get_FeedbackLoop
+  Method: get_PositionDemanding
+  Method: get_TriggerConfig
+  Method: get_AutoOpenCloseLoop
+  Method: FullPropertyList
+  Method: NetToNative
+  Method: NativeToNet
+  Method: get_DeviceSettingsBaseOn
+  Method: get_IsCustomSettings
+  Method: get_IsUploadedSettings
+  Method: get_IsValidSettings
+  Method: get_IsDefaultSettings
+  Method: get_InternalVersion
+  Method: set_InternalVersion
+  Method: get_Name
+  Method: set_Name
+  Method: get_IsSettingsValid
+  Method: Merge
+  Method: PropertyList
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: AutoOpenCloseLoop
+  Property: TriggerConfig
+  Property: PositionDemanding
+  Property: FeedbackLoop
+  Property: GUI
+  Property: MMI
+  Property: IsSettingsValid
+  Property: Name
+  Property: InternalVersion
+  Property: IsDefaultSettings
+  Property: IsValidSettings
+  Property: IsUploadedSettings
+  Property: IsCustomSettings
+  Property: DeviceSettingsBaseOn
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.ThorlabsPositionAlignerSettingsFactory
+  Method: GetSettings
+  Method: GetSettings
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerConfiguration
+  Method: get_DefaultKPAName
+  Method: get_DefaultTPAName
+  Method: get_Internal
+  Method: set_Internal
+  Method: get_DeviceSettingsName
+  Method: set_DeviceSettingsName
+  Method: get_DeviceData
+  Method: set_DeviceData
+  Method: get_DeviceAlias
+  Method: set_DeviceAlias
+  Method: get_DeviceSettingsBasedOnName
+  Method: get_DeviceSettingsUnaliasedName
+  Method: get_DeviceSettingsGenericName
+  Method: get_DeviceSettingsPartNumber
+  Method: get_SerialNo
+  Method: get_DeviceTypeID
+  Method: get_OutputDebugMask
+  Method: set_OutputDebugMask
+  Method: get_OutputLoggingMask
+  Method: set_OutputLoggingMask
+  Method: get_LoadSettingsOption
+  Method: set_LoadSettingsOption
+  Method: get_WorkingSettingsLoadOption
+  Method: get_CollateLogging
+  Method: set_CollateLogging
+  Method: get_PositionLogging
+  Method: set_PositionLogging
+  Method: SaveConfiguration
+  Method: SaveDeviceSettings
+  Method: VerifyDeviceSettingsName
+  Method: GetCurrentDeviceSettings
+  Method: GetDeviceSettings
+  Method: UpdateCurrentConfiguration
+  Method: UpdateCurrentConfiguration
+  Method: GetDeviceReference
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: DefaultTPAName
+  Property: DefaultKPAName
+  Property: PositionLogging
+  Property: CollateLogging
+  Property: WorkingSettingsLoadOption
+  Property: LoadSettingsOption
+  Property: OutputLoggingMask
+  Property: OutputDebugMask
+  Property: DeviceTypeID
+  Property: SerialNo
+  Property: DeviceSettingsPartNumber
+  Property: DeviceSettingsGenericName
+  Property: DeviceSettingsUnaliasedName
+  Property: DeviceSettingsBasedOnName
+  Property: DeviceAlias
+  Property: DeviceData
+  Property: DeviceSettingsName
+  Property: Internal
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerLoopParameters
+  Method: ToUnit
+  Method: get_DerivativeGain
+  Method: set_DerivativeGain
+  Method: get_IntegralGain
+  Method: set_IntegralGain
+  Method: get_ProportionalGain
+  Method: set_ProportionalGain
+  Method: get_LowPassFilterCutOffFreq
+  Method: set_LowPassFilterCutOffFreq
+  Method: get_LowPassFilterEnabled
+  Method: set_LowPassFilterEnabled
+  Method: get_NotchFilterCenterFrequency
+  Method: set_NotchFilterCenterFrequency
+  Method: get_NotchFilterEnabled
+  Method: set_NotchFilterEnabled
+  Method: get_NotchFilterQ
+  Method: set_NotchFilterQ
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: NotchFilterQ
+  Property: NotchFilterEnabled
+  Property: NotchFilterCenterFrequency
+  Property: LowPassFilterEnabled
+  Property: LowPassFilterCutOffFreq
+  Property: ProportionalGain
+  Property: IntegralGain
+  Property: DerivativeGain
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerLowPassFilterParameters
+  Method: ToUnit
+  Method: get_LowPassFilterCutOffFreq
+  Method: set_LowPassFilterCutOffFreq
+  Method: get_LowPassFilterEnabled
+  Method: set_LowPassFilterEnabled
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: LowPassFilterEnabled
+  Property: LowPassFilterCutOffFreq
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerPIDParameters
+  Method: ToUnit
+  Method: get_DerivativeGain
+  Method: set_DerivativeGain
+  Method: get_IntegralGain
+  Method: set_IntegralGain
+  Method: get_ProportionalGain
+  Method: set_ProportionalGain
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: ProportionalGain
+  Property: IntegralGain
+  Property: DerivativeGain
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerNotchFilterParameters
+  Method: ToUnit
+  Method: get_NotchFilterCenterFrequency
+  Method: set_NotchFilterCenterFrequency
+  Method: get_NotchFilterEnabled
+  Method: set_NotchFilterEnabled
+  Method: get_NotchFilterQ
+  Method: set_NotchFilterQ
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: NotchFilterQ
+  Property: NotchFilterEnabled
+  Property: NotchFilterCenterFrequency
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerStatusEventArgs
+  Method: get_Status
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: Status
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PositionAlignerStatusUpdateDelegate
+  Method: Invoke
+  Method: BeginInvoke
+  Method: EndInvoke
+  Method: GetObjectData
+  Method: Equals
+  Method: GetInvocationList
+  Method: GetHashCode
+  Method: DynamicInvoke
+  Method: get_Method
+  Method: get_Target
+  Method: Clone
+  Method: ToString
+  Method: GetType
+  Property: Method
+  Property: Target
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.IPositionAligner
+  Method: add_DeviceErrorUpdate
+  Method: remove_DeviceErrorUpdate
+  Method: add_StatusUpdate
+  Method: remove_StatusUpdate
+  Method: get_Status
+  Method: GetLEDsetting
+  Method: SetLEDs
+  Method: RequestLEDsetting
+  Method: GetLoopPIDparams
+  Method: SetLoopPIDparams
+  Method: RequestLoopPIDparams
+  Method: GetLowPassFilterparams
+  Method: SetLowPassFilterparams
+  Method: RequestLowPassFilterparams
+  Method: GetPIDparams
+  Method: SetPIDparams
+  Method: RequestPIDParams
+  Method: GetNotchFilterparams
+  Method: SetNotchFilterparams
+  Method: RequestNotchFilterparams
+  Method: GetPosDemandParams
+  Method: SetPosDemandParams
+  Method: RequestPosDemandParams
+  Method: GetTriggerConfigParams
+  Method: SetTriggerConfigParams
+  Method: RequestTriggerConfig
+  Method: GetDigitalOutput
+  Method: SetDigitalOutput
+  Method: RequestDigitalOutput
+  Method: GetOperatingMode
+  Method: SetOperatingMode
+  Method: RequestOperatingMode
+  Method: GetDemandedPosition
+  Method: SetPosition
+  Method: RequestDemandedPosition
+  Method: GetClosedLoopPosition
+  Method: SetClosedLoopPosition
+  Method: RequestClosedLoopPosition
+  Method: GetStatusBits
+  Method: RequestSettings
+  Method: GetPositionAlignerConfiguration
+  Method: GetPositionAlignerConfiguration
+  Method: get_DeviceConfiguration
+  Method: get_PositionAlignerDeviceSettings
+  Method: get_IsPositionAlignerSettingsValid
+  Property: IsPositionAlignerSettingsValid
+  Property: PositionAlignerDeviceSettings
+  Property: DeviceConfiguration
+  Property: Status
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PollingRateChangedEventArgs
+  Method: get_PollingRate
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: PollingRate
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.PollingRateEventDelegate
+  Method: Invoke
+  Method: BeginInvoke
+  Method: EndInvoke
+  Method: GetObjectData
+  Method: Equals
+  Method: GetInvocationList
+  Method: GetHashCode
+  Method: DynamicInvoke
+  Method: get_Method
+  Method: get_Target
+  Method: Clone
+  Method: ToString
+  Method: GetType
+  Property: Method
+  Property: Target
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.NativeObjectWrapper<Thorlabs::MotionControl::KCube::PositionAlignerCLI::Native::CKCubePositionAligner2>
+  Method: IsValid
+  Method: GetIntPtr
+  Method: Ptr
+  Method: Dispose
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.NativeObjectWrapper<Thorlabs::MotionControl::DeviceSupport::CCoreDevice>
+  Method: IsValid
+  Method: GetIntPtr
+  Method: Dispose
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.KCubePositionAligner
+  Method: add_PollingRateEvent
+  Method: remove_PollingRateEvent
+  Method: SupportedDevices
+  Method: RegisterDevice
+  Method: UnregisterDevice
+  Method: CreateDevice
+  Method: CreateDevice
+  Method: CreateKCubePositionAligner
+  Method: Connect
+  Method: CanRestorePreSequenceState
+  Method: DefaultRestorePreSequenceState
+  Method: StorePreSequenceState
+  Method: RestorePreSequenceState
+  Method: RequestDevParams
+  Method: GetDevParams
+  Method: SetDevParams
+  Method: GetFunctionCollection
+  Method: GetFunctionNames
+  Method: GetFunctionActor
+  Method: GetFunctionParameters
+  Method: GetFunctionParametersDefinitions
+  Method: SetMasks
+  Method: GetMasks
+  Method: IsSettingsInitialized
+  Method: WaitForSettingsInitialized
+  Method: IsDeviceAvailable
+  Method: IdentifyDevice
+  Method: EnableDevice
+  Method: DisableDevice
+  Method: StartPolling
+  Method: StopPolling
+  Method: PollingDuration
+  Method: RequestStatus
+  Method: RequestStatusBits
+  Method: GetStatusBits
+  Method: add_StatusUpdate
+  Method: remove_StatusUpdate
+  Method: get_Status
+  Method: GetLEDsetting
+  Method: SetLEDs
+  Method: RequestLEDsetting
+  Method: GetLoopPIDparams
+  Method: SetLoopPIDparams
+  Method: RequestLoopPIDparams
+  Method: GetLowPassFilterparams
+  Method: SetLowPassFilterparams
+  Method: RequestLowPassFilterparams
+  Method: GetPIDparams
+  Method: SetPIDparams
+  Method: RequestPIDParams
+  Method: GetNotchFilterparams
+  Method: SetNotchFilterparams
+  Method: RequestNotchFilterparams
+  Method: GetPosDemandParams
+  Method: SetPosDemandParams
+  Method: RequestPosDemandParams
+  Method: GetOperatingMode
+  Method: SetOperatingMode
+  Method: RequestOperatingMode
+  Method: GetDemandedPosition
+  Method: SetPosition
+  Method: RequestDemandedPosition
+  Method: GetClosedLoopPosition
+  Method: SetClosedLoopPosition
+  Method: RequestClosedLoopPosition
+  Method: GetTriggerConfigParams
+  Method: SetTriggerConfigParams
+  Method: RequestTriggerConfig
+  Method: GetDigitalOutput
+  Method: SetDigitalOutput
+  Method: RequestDigitalOutput
+  Method: CanDeviceLockFrontPanel
+  Method: GetFrontPanelLocked
+  Method: RequestFrontPanelLocked
+  Method: SetFrontPanelLock
+  Method: RequestSettings
+  Method: UpdateActors
+  Method: SetSettings
+  Method: SetSettings
+  Method: GetSettings
+  Method: GetSettingsByID
+  Method: PersistSettings
+  Method: GetPositionAlignerConfiguration
+  Method: GetPositionAlignerConfiguration
+  Method: get_IsSettingsKnown
+  Method: get_DeviceConfiguration
+  Method: get_PositionAlignerDeviceSettings
+  Method: get_IsPositionAlignerSettingsValid
+  Method: add_DeviceErrorUpdate
+  Method: remove_DeviceErrorUpdate
+  Method: add_SettingsUpdate
+  Method: remove_SettingsUpdate
+  Method: add_CommsListener
+  Method: remove_CommsListener
+  Method: get_DeviceID
+  Method: get_SerialNo
+  Method: get_IsConnected
+  Method: get_CommsStatus
+  Method: get_DeviceType
+  Method: ForwardException
+  Method: TestClientWrite
+  Method: DisconnectTidyUp
+  Method: ShutDown
+  Method: get_IsSimulation
+  Method: ConnectDevice
+  Method: Disconnect
+  Method: Disconnect
+  Method: get_DeviceName
+  Method: get_DeviceTypeNo
+  Method: get_UsesActuators
+  Method: get_IsActuator
+  Method: get_FirmwareVersion
+  Method: get_HardwareVersion
+  Method: get_SoftwareVersion
+  Method: GetDeviceInfo
+  Method: ResetConnection
+  Method: EnableCommsListener
+  Method: SetListenToStatus
+  Method: GetListenToStatus
+  Method: GetDeviceName
+  Method: get_IsCoreValid
+  Method: CreateConnectionToDevice
+  Method: IsBayValid
+  Method: get_IsDeviceBusy
+  Method: Dispose
+  Method: add_ConnectionStateChanged
+  Method: remove_ConnectionStateChanged
+  Method: SetUSBConnectionState
+  Method: InitializeUSBConnectionState
+  Method: GetConnectionState
+  Method: get_USBConnected
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: IsPositionAlignerSettingsValid
+  Property: PositionAlignerDeviceSettings
+  Property: DeviceConfiguration
+  Property: IsSettingsKnown
+  Property: Status
+  Property: IsDeviceBusy
+  Property: IsCoreValid
+  Property: SoftwareVersion
+  Property: HardwareVersion
+  Property: FirmwareVersion
+  Property: IsActuator
+  Property: UsesActuators
+  Property: DeviceTypeNo
+  Property: DeviceName
+  Property: IsSimulation
+  Property: DeviceType
+  Property: CommsStatus
+  Property: IsConnected
+  Property: SerialNo
+  Property: DeviceID
+  Property: USBConnected
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.KCubePositionAligner+NativePositionAlignerPtr
+  Method: IsValid
+  Method: GetIntPtr
+  Method: Ptr
+  Method: Dispose
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.LoggingCatagory
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_OperatingMode
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_FilterEnable
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_LowVoltageRoute
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_OpenLoopHoldValues
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_Readings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAlignerCLI.Native.CKCubePositionAligner2+CSHolder
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_Position
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CPositionAlignerStatusStruct>
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CGUISettingsItem>
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CFeedbackLoopSettingsItem>
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CMMISettingsItem>
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_PositionDemandParameters
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CPositionDemandingSettingsItem>
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_KPA_TrigIOConfig
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CTrigConfigSettingsItem>
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CAutoOpenCloseLoopSettingsItem>
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CThorlabsPositionAlignerSettings>
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_LoopParameters
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_LowPassFilterParameters
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_PIDParameters
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_NotchFilterParameters
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAlignerCLI::Native::CKCubePositionAligner2>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::DeviceSupport::CCoreDevice>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.DeviceSupport.CDeviceException
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CLogging
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceSettingsSectionBase
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceSettingsSectionBase+DeviceSettingsUseOptionType
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceSettingsSectionBase+DeviceSettingsUseType
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceSettingsSectionBase+DeviceSettingsSectionIDs
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceMessageBase
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceMessageBase+DeviceMessageClass
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceID
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.IDeviceSettings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: _RTL_CRITICAL_SECTION
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: ATL.CAtlBaseModule
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: IUnknown
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: _GUID
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: ATL._ATL_OBJMAP_ENTRY110
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: ATL.CAtlComModule
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: ATL.CAtlReleaseManagedClassFactories
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.DeviceSupport.ITimer
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.DeviceSupport.CDeviceSettingsException
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.DeviceSupport.CCoreDevice
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.IGeneralSettings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.IDeviceConfiguration
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CPositionAlignerStatusStruct
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CPositionAlignerProcessMessage
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CPositionAlignerProcessMessage+PositionAlignerMessageType
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CPositionAlignerStatusMessage
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.IThorlabsPositionAligner
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CGUISettingsItem
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CGUISettingsItem+CGUISettings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CMMISettingsItem
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.KPA_MMIParams
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CFeedbackLoopSettingsItem
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CFeedbackLoopSettingsItem+CFeedbackLoopSettings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CPositionDemandingSettingsItem
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CPositionDemandingSettingsItem+CPositionDemandingSettings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CTrigConfigSettingsItem
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CAutoOpenCloseLoopSettingsItem
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CAutoOpenCloseLoopSettingsItem+CAutoOpenCloseLoopSettings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::GenericDevice::IThorlabsBaseChannel>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std._Ref_count<Thorlabs::MotionControl::KCube::PositionAligner::CPositionAlignerStatusStruct>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_100
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_76
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_82
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_62
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_81
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_68
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_60
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY04Q6AXXZ
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_75
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.CThorlabsPositionAlignerSettings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceSettings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_6
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceConfiguration
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CGeneralSettings
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.DeviceSupport.CGenericDevice
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: __s_GUID
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: _IMAGE_DOS_HEADER
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEATtagCY@@
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@TtagCY@@
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAPEAUIDispatch@@
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAUIDispatch@@
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAPEAUIUnknown@@
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAUIUnknown@@
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAPEA_W
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEA_W
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAN
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@N
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAM
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@M
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEA_K
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@_K
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEA_J
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@_J
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAK
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@K
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAJ
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@J
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAI
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@I
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAH
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@H
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAG
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@G
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAF
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@F
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAE
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@PEAD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@E
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$PTMType$QEQtagVARIANT@@D
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CDeviceSettingsDetails
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CLoggingManager
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.CLoggingItem
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::GenericDevice::IDeviceSettings>
+  Method: <MarshalCopy>
+  Method: <MarshalDestroy>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std._Ref_count<Thorlabs::MotionControl::KCube::PositionAlignerCLI::Native::CKCubePositionAligner2>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std._Ref_count<Thorlabs::MotionControl::DeviceSupport::CCoreDevice>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_104
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_55
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_59
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_84
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_ClosedLoopPosition
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.KCube.PositionAligner.QD_KPA_DigitalIO
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: Thorlabs.MotionControl.GenericDevice.TLI_DevParams
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0CF@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GC@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0FM@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GG@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GE@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GF@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GJ@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GB@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GL@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GP@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GN@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GH@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GI@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GA@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GM@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GK@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0GO@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0BO@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0CB@$$CBD
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::IThorlabsPositionAligner>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::GenericDevice::CDeviceMessageBase>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CPositionAlignerStatusMessage>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: std.shared_ptr<Thorlabs::MotionControl::KCube::PositionAligner::CPositionAlignerProcessMessage>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_58
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_TypeDescriptor$_extraBytes_64
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: $_s__CatchableTypeArray$_extraBytes_24
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0BK@Q6AXXZ
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CrtImplementationDetails>.ModuleLoadException
+  Method: get_Message
+  Method: get_Data
+  Method: GetBaseException
+  Method: get_InnerException
+  Method: get_TargetSite
+  Method: get_StackTrace
+  Method: get_HelpLink
+  Method: set_HelpLink
+  Method: get_Source
+  Method: set_Source
+  Method: ToString
+  Method: GetObjectData
+  Method: get_HResult
+  Method: GetType
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: Message
+  Property: Data
+  Property: InnerException
+  Property: TargetSite
+  Property: StackTrace
+  Property: HelpLink
+  Property: Source
+  Property: HResult
+Type: <CrtImplementationDetails>.ModuleLoadExceptionHandlerException
+  Method: get_NestedException
+  Method: set_NestedException
+  Method: ToString
+  Method: GetObjectData
+  Method: get_Message
+  Method: get_Data
+  Method: GetBaseException
+  Method: get_InnerException
+  Method: get_TargetSite
+  Method: get_StackTrace
+  Method: get_HelpLink
+  Method: set_HelpLink
+  Method: get_Source
+  Method: set_Source
+  Method: get_HResult
+  Method: GetType
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: NestedException
+  Property: Message
+  Property: Data
+  Property: InnerException
+  Property: TargetSite
+  Property: StackTrace
+  Property: HelpLink
+  Property: Source
+  Property: HResult
+Type: <CrtImplementationDetails>.ModuleUninitializer
+  Method: get_Count
+  Method: get_IsSynchronized
+  Method: get_SyncRoot
+  Method: Clear
+  Method: Clone
+  Method: Contains
+  Method: CopyTo
+  Method: GetEnumerator
+  Method: Peek
+  Method: Pop
+  Method: Push
+  Method: ToArray
+  Method: ToString
+  Method: Equals
+  Method: GetHashCode
+  Method: GetType
+  Property: Count
+  Property: IsSynchronized
+  Property: SyncRoot
+Type: __scrt_native_startup_state
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: <CrtImplementationDetails>.TriBool
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: <CrtImplementationDetails>.Progress
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: ToString
+  Method: CompareTo
+  Method: ToString
+  Method: ToString
+  Method: HasFlag
+  Method: GetTypeCode
+  Method: GetType
+Type: <CrtImplementationDetails>.LanguageSupport
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: gcroot<System::String ^>
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0A@P6AHXZ
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: ICLRRuntimeHost
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY00Q6MPEBXXZ
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: ICorRuntimeHost
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CppImplementationDetails>.$ArrayType$$$BY0A@P6AXXZ
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: _EXCEPTION_POINTERS
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
+Type: <CrtImplementationDetails>.ThisModule
+  Method: Equals
+  Method: GetHashCode
+  Method: ToString
+  Method: GetType
