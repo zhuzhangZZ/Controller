@@ -4,7 +4,7 @@
 """
 Example of C Libraries for CCS Spectrometers in Python with CTypes
 Author: Zhu Zhang <z.zhang@uu.nl>
-Copy from 
+Modified thorlabs Github source 
 https://github.com/Thorlabs/Light_Analysis_Examples/blob/main/Python/Thorlabs%20CCS%20Spectrometers/CCS%20using%20ctypes%20-%20Python%203.py
 
 
