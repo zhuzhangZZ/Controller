@@ -6,3 +6,7 @@
 ### StanfordResearchSystem SRS830 Lockin-Amplifier
 ### Thorlabs PQD KPA101 controller
 ### Thorlabs CCS200 spectrometer
+### BBD301 
+### K10CR2
+### KBD01
+### KDC01
